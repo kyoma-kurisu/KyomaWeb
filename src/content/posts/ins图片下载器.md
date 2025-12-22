@@ -2,7 +2,7 @@
 title: ins图片下载器
 published: 2025-12-22
 description: 网页即可下载ins的图片
-tags: [ins, 下载, 工具，网页推荐,Instagram]
+tags: [ins, 下载, 工具, 网页推荐, Instagram]
 category: 网页推荐
 draft: false
 ---
@@ -17,5 +17,6 @@ https://savegram.app/zh-cn/instagram-photo-downloader
 **第 2 步**: 点击您要下载的照片，然后点击三点图标（●●●）并选择复制链接。
 
 **第 3 步**: 返回 SaveGram.App，将复制的照片链接粘贴到页面顶部的输入字段中，然后按下载按钮。
+
 
 **第 4 步**: 等待我们的服务器处理后，您可以选择质量、图像大小并保存到您的设备。

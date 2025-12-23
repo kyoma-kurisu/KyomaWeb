@@ -4,7 +4,7 @@ published: 2025-12-23
 description: '网盘类，一个月有一个G免费额度，部分网站可以实现云同步功能'
 image: ''
 tags: [ 软件 , 免费 , app , webdav , 云同步 ]
-category: ''
+category: '软件'
 draft: false 
 lang: ''
 ---

@@ -55,13 +55,13 @@ const className = Astro.props.class;
         </div>
     </div>
 
-    <div id="vercount_container_page_pv" class="flex items-center flex-nowrap shrink-0">
+<div id="vercount_container_page_pv" class="flex items-center whitespace-nowrap">
         <div class="meta-icon flex items-center justify-center shrink-0">
             <Icon name="material-symbols:trending-up-rounded" class="text-xl"></Icon>
         </div>
-        <span class="text-50 text-sm font-medium ml-2 whitespace-nowrap leading-none self-center">
+        <div class="text-50 text-sm font-medium ml-1.5 flex items-center h-full translate-y-[1px]">
             阅读量：<span id="vercount_value_page_pv"></span>
-        </span>
+        </div>
     </div>
 
     <div class:list={["items-center", {"flex": !hideTagsForMobile, "hidden md:flex": hideTagsForMobile}]}>

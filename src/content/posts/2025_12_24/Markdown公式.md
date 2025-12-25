@@ -1,10 +1,10 @@
 ---
 title: Markdown公式
 published: 2025-12-24
-description: ''
+description: 'markdown公式比较多，有时候把自己常用的记录下来，方便寻找'
 image: ''
-tags: []
-category: ''
+tags: [ 教程 , markdown ]
+category: '教程'
 draft: false 
 lang: ''
 ---
@@ -55,4 +55,10 @@ xxx
 ```
 ~~XX~~
 ```
-
+## 表格语法
+```angular2html
+| 表头 1 | 表头 2 | 表头 3 |
+| :--- | :----: | ---: |
+| 左对齐内容 | 居中对齐内容 | 右对齐内容 |
+| 内容 A | 内容 B | 内容 C |
+```

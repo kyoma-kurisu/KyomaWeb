@@ -1,10 +1,10 @@
 ---
 title: DIY装机教程
 published: 2025-12-24
-description: ''
+description: '2025年12月发布的装机帖，内容很多，mark一下'
 image: ''
-tags: []
-category: ''
+tags: [ 教程 , 装机  ]
+category: '教程'
 draft: false 
 lang: ''
 ---

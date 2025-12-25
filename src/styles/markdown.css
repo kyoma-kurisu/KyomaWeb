@@ -1,3 +1,13 @@
+/* 1. 先在 @layer utilities 中定义自定义 link 类（放在 .custom-md 前面） */
+@layer utilities {
+  .link {
+    /* 这里可以根据你的需求补充自定义样式，若原本无额外样式，留空也可（仅为让 Tailwind 识别该类名） */
+    /* 示例补充基础样式，可根据你的项目调整或删除 */
+    text-decoration: inherit;
+    color: inherit;
+  }
+}
+
 .custom-md {
     h1 {
         @apply text-3xl;

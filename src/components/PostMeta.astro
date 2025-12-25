@@ -56,11 +56,11 @@ const className = Astro.props.class;
     </div>
 
     <div id="vercount_container_page_pv" class="flex items-center">
-        <div class="meta-icon">
+        <div class="meta-icon flex items-center"> 
             <Icon name="material-symbols:trending-up-rounded" class="text-xl"></Icon>
         </div>
-        <span class="text-50 text-sm font-medium text-nowrap">
-            <span id="vercount_value_page_pv"></span> {i18n(I18nKey.views) || '次阅读'}
+        <span class="text-50 text-sm font-medium whitespace-nowrap leading-7">
+            阅读量：<span id="vercount_value_page_pv"></span>
         </span>
     </div>
 

@@ -4,7 +4,7 @@ published: 2025-12-25
 description: '优化nga内容，比如护眼模式，显示ip等等优化操作'
 image: ''
 tags: [ 插件 , 油猴 , 优化 ]
-category: ''
+category: '插件'
 draft: false 
 lang: ''
 ---

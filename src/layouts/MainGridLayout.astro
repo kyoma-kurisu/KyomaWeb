@@ -43,7 +43,7 @@ const mainPanelTop = siteConfig.banner.enable
 
 <Layout title={title} banner={banner} description={description} lang={lang} setOGTypeArticle={setOGTypeArticle}>
 
-    <script is:inline async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" data-astro-rerun></script>
+  
 
     <slot slot="head" name="head"></slot>
 
@@ -95,5 +95,8 @@ const mainPanelTop = siteConfig.banner.enable
             <BackToTop></BackToTop>
         </div>
     </div>
+
+<script is:inline src="https://busuanzi.9420.ltd/js/busuanzi.pure.mini.js" data-astro-rerun></script>
+
 
 </Layout>

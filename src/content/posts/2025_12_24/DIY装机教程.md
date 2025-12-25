@@ -10,6 +10,7 @@ lang: ''
 ---
 # 原帖地址
 [来源百度贴吧](https://tieba.baidu.com/p/10318035470?pid=152999764891&cid=0#152999764891)
+发帖时间：2025年12月20日
 
 # 内容
 
@@ -125,7 +126,7 @@ I5 12600KF 7500F 9600X 目前性价比最高的CPU
 <details>
   <summary>点击展开/折叠图片</summary>
 
-![](https://pic2.zhimg.com/v2-ba687fd5313035aa161d0b039f0b36c5_1440w.webp?consumer=ZHI_MENG)
+![](https://vip.123pan.cn/1853786149/yk6baz03t0n000d7w33hno98sg8m4edqDIYyDwU1AqexBGxwDqQ0DF==.png)
 
 </details>
 
@@ -158,7 +159,7 @@ I5 12600KF 7500F 9600X 目前性价比最高的CPU
 
 ![](https://vip.123pan.cn/1853786149/ymjew503t0n000d7w32yhxvi1d394qa0DIYyDwU1AqexBGxwDqQ0DF==.png)
 
-![](https://pic3.zhimg.com/v2-76743c9bcf59c668b3506def6266e3ae_1440w.webp?consumer=ZHI_MENG)
+![](https://vip.123pan.cn/1853786149/yk6baz03t0n000d7w33hno9p5m8molqiDIYyDwU1AqexBGxwDqQ0DF==.png)
 
 </details>
 
@@ -169,7 +170,7 @@ I5 12600KF 7500F 9600X 目前性价比最高的CPU
 
 ![](https://vip.123pan.cn/1853786149/yk6baz03t0l000d7w33g2o5r8hcc0457DIYyDwU1AqexBGxwDqQ0DF==.png)
 
-![](https://pica.zhimg.com/v2-094bcd838016b3332c4a0a23db676c66_1440w.webp?consumer=ZHI_MENG)
+![](https://vip.123pan.cn/1853786149/ymjew503t0n000d7w32yhzv1a876bh21DIYyDwU1AqexBGxwDqQ0DF==.png)
 
 </details>
 
@@ -178,9 +179,9 @@ I5 12600KF 7500F 9600X 目前性价比最高的CPU
 <details>
   <summary>点击展开/折叠图片</summary>
 
-![](https://picx.zhimg.com/v2-62b7843dabb5fa0771bb96598a84fcfd_1440w.webp?consumer=ZHI_MENG)
+![](https://vip.123pan.cn/1853786149/yk6baz03t0m000d7w33gv3dmy8t0my1fDIYyDwU1AqexBGxwDqQ0DF==.png)
 
-![](https://pic1.zhimg.com/v2-53cc182ed0170cffcb1f5a0974466c42_1440w.webp?consumer=ZHI_MENG)
+![](https://vip.123pan.cn/1853786149/ymjew503t0n000d7w32yi01abe7iz0q0DIYyDwU1AqexBGxwDqQ0DF==.png)
 
 </details>
 
@@ -478,7 +479,7 @@ I5 12600KF 7500F 9600X 目前性价比最高的CPU
 <details>
   <summary>点击展开/折叠图片</summary>
 
-![](https://picx.zhimg.com/v2-94860a50353cc2bb967de2f1c294e13d_1440w.jpg)
+![](https://vip.123pan.cn/1853786149/ymjew503t0l000d7w32xmszxnucaduslDIYyDwU1AqexBGxwDqQ0DF==.png)
 
 </details>
 
@@ -530,7 +531,111 @@ I5 12600KF 7500F 9600X 目前性价比最高的CPU
  <details>
   <summary>点击展开/折叠图片</summary>
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=6996a2243dec54e741ec1a1689399bfd/6621ac345982b2b7980b16de77adcbef77099bfd.jpg?tbpicau=2026-01-05-05_334f2eeb2ccd8dc3cb649765ac3e63e4)
+|  显卡型号  | 推荐显示器分辨率 | 影视级+50%超采样+帧生成 | 前面+光追 |
+|:------:|:--------:|:--------------:|:-----:|
+| 6650XT |  1080P   |      54帧       | 建议放弃  |
+|  7600  |  1080P   |      55帧       | 建议放弃  |
+|  4060  |  1080P   |      69帧       | 69 帧  |
+
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th colspan="4">1080P推荐上面这三张卡，体验光追选N卡4060，性价比选6650XT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6750GRE 10G</td>
+      <td>2K</td>
+      <td>54帧</td>
+      <td>建议放弃</td>
+    </tr>
+    <tr>
+      <td>6750GRE 12G</td>
+      <td>2K</td>
+      <td>64帧</td>
+      <td>建议放弃</td>
+    </tr>
+    <tr>
+      <td>4060Ti</td>
+      <td>2K</td>
+      <td>70帧</td>
+      <td>60帧</td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #ccc;">
+  <thead>
+    <tr style="background-color: rgba(128, 128, 128, 0.1);">
+      <th colspan="4" style="padding: 10px; border: 1px solid #ccc;">2K 推荐上面这三张卡，光追还是选 N 卡，性价比选 A 卡</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">7700XT</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">59 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">建议放弃</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">7800XT</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">71 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">建议放弃</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">7900GRE</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">75 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">建议放弃</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">7900XT</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">88 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">建议放弃</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">7900XTX</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">103 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">建议放弃</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">4070</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">63 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">47 帧</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">4070SUPER</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">71 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">54 帧</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">4070Ti SUPER</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">84 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">64 帧</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">4080SUPER</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">97 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">74 帧</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ccc;">4090</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">4K</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">122 帧</td>
+      <td style="padding: 8px; border: 1px solid #ccc;">98 帧</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 </details>
 
@@ -623,7 +728,7 @@ N卡和A卡
 <details>
   <summary>点击展开/折叠图片</summary>
 
-![](https://picx.zhimg.com/v2-51698aaca1c9483aae3c0fc7858bafc5_1440w.jpg)
+![](https://vip.123pan.cn/1853786149/ymjew503t0l000d7w32xmszz59cagky9DIYyDwU1AqexBGxwDqQ0DF==.png)
 
 </details>
 
@@ -655,7 +760,7 @@ N卡和A卡
 <details>
   <summary>点击展开/折叠图片</summary>
 
-![](https://picx.zhimg.com/v2-ad4e46462347350e9a8f67e3d191e3dd_1440w.jpg)
+![](https://vip.123pan.cn/1853786149/ymjew503t0l000d7w32xmszzm8cahdjiDIYyDwU1AqexBGxwDqQ0DF==.png)
 
 </details>
 
@@ -848,9 +953,65 @@ N卡和A卡
 <details>
   <summary>点击展开/折叠</summary>
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=fd96a61b1a6034a829e2b889fb1249d9/22b8e61190ef76c6c35cd431db16fdfaae516787.jpg?tbpicau=2026-01-05-05_92923cad9b804268a885775875ca509c)
+内存颗粒天梯
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=d982464a72a85edffa8cfe2b795509d8/207491ef76c6a7efaba8873cbbfaaf51f2de6687.jpg?tbpicau=2026-01-05-05_609d498f7fcd9b19b8041d318f987d48)
+<div style="overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #dfe2e5; font-family: sans-serif;">
+    <thead>
+      <tr style="background-color: #f6f8fa;">
+        <th style="padding: 12px; border: 1px solid #dfe2e5; width: 30%;">等级</th>
+        <th style="padding: 12px; border: 1px solid #dfe2e5;">颗粒型号</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="2" style="padding: 10px; border: 1px solid #dfe2e5; background-color: #f8f9fa; font-weight: bold;">T0</td>
+        <td style="padding: 10px; border: 1px solid #dfe2e5;">三星特挑 B-die</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #dfe2e5; background-color: #ffffff;">镁光特调 E-die</td>
+      </tr>
+      <tr>
+        <td rowspan="4" style="padding: 10px; border: 1px solid #dfe2e5; background-color: #f8f9fa; font-weight: bold;">T1</td>
+        <td style="padding: 10px; border: 1px solid #dfe2e5;">三星 B-die</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #dfe2e5; background-color: #ffffff;">镁光 E-die (c9bjz)</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #dfe2e5;">海力士 DJR</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #dfe2e5; background-color: #ffffff;">海力士 CJR</td>
+      </tr>
+      <tr>
+        <td rowspan="4" style="padding: 10px; border: 1px solid #dfe2e5; background-color: #f8f9fa; font-weight: bold;">T2</td>
+        <td style="padding: 10px; border: 1px solid #dfe2e5;">海力士 JJR</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #dfe2e5; background-color: #ffffff;">镁光 E-die (d9vpp)</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #dfe2e5;">海力士 AFR</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #dfe2e5; background-color: #ffffff;">三星 C-die</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+| 内存颗粒类型 | 对应内存条型号/系列 |
+| :--- | :--- |
+| **特挑三星 B-die** | 芝奇皇家戟 c14 3600、威刚龙耀D60 4133、影驰名人堂OC4600等 |
+| **普条三星 B-die** | 幻光戟 c14 3200、海盗船铂金统治者 c16 3600、名人堂银条3600等 |
+| **镁光 E-die c9bjz** | 英睿达新铂胜 3200 3000 2666（普条） |
+| **海力士 DJR** | 焰光戟 c16 3600、科赋雷霆X c18 3600等 |
+| **海力士 CJR** | 金士顿掠食者等、科赋炎龙系列、科赋普条、宇瞻 黑暗女神系列等 |
+| **海力士 JJR** | 威刚 金色威龙3000等 |
+| **三星 C-die** | 焰光戟 c18 3600、威刚 xpg3200等 |
+| **海力士 AFR** | 芝奇 幻光戟 3000c16等 |
+| **长鑫颗粒** | 光威 奕系列（国产颗粒）超频性能可以进T2 |
 
 </details>
 
@@ -982,11 +1143,12 @@ N卡和A卡
 <details>
   <summary>点击展开/折叠</summary>
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=f083ac2a7cf33a879e6d0012f65d1018/cb568644ebf81a4c74b5c3d3912a6059242da68e.jpg?tbpicau=2026-01-05-05_61709ce49d7da86aebe4ee0368a9e5cc)
+![](https://vip.123pan.cn/1853786149/yk6baz03t0n000d7w33hnomoq790sk3iDIYyDwU1AqexBGxwDqQ0DF==.png)
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=90ba20d97c87e9504217f3642039531b/4021eaf81a4c510fff43cd002659252dd52aa58e.jpg?tbpicau=2026-01-05-05_268b80e4893885e88289ef71bbd6c9e7)
+![](https://vip.123pan.cn/1853786149/yk6baz03t0l000d7w33g2pxygbds4uzzDIYyDwU1AqexBGxwDqQ0DF==.png)
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=1d4920adaf50352ab16125006342fb1a/2c9d1b4c510fd9f9f0907a73632dd42a2934a48e.jpg?tbpicau=2026-01-05-05_a58d6d566a0e825f2325905acb8e1e52)
+![](https://vip.123pan.cn/1853786149/yk6baz03t0n000d7w33hnon4py91anagDIYyDwU1AqexBGxwDqQ0DF==.png)
+
 
 </details>
 
@@ -1002,7 +1164,7 @@ N卡和A卡
 >
 > 电源上有很多线材，有线材就有电阻，有电阻就有电损，有了电损就会有转换率，选择电源时我们会看到很多会标80Plus铜牌、80Plus金牌之类，这就是电源转换率的标准。一般选择80PLUS铜牌认证以上的电源就可以了，额定功率是指除去电损过之后的功率，不然就是虚标。
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=123df37a732ac65c6705667bcbf3b21d/dd29500fd9f9d72a48e33f07922a2834359bbb8e.jpg?tbpicau=2026-01-05-05_3a660e3e00aa3840be76e6dbb3ca963f)
+![](https://vip.123pan.cn/1853786149/yk6baz03t0m000d7w33gv3rbcoteymkhDIYyDwU1AqexBGxwDqQ0DF==.png)
 
 <details>
   <summary>点击展开/折叠</summary>
@@ -1318,9 +1480,9 @@ N卡和A卡
 >
 > K神 小咖 大咖
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=efb361de4cd162d985ee621421dea950/4cb1b21c8701a18b6a6d3d55d82f07082938fe88.jpg?tbpicau=2026-01-05-05_e97073b859eb46ffa9a506ab7de51628)
+![](https://vip.123pan.cn/1853786149/ymjew503t0l000d7w32xmt0s37cc4ygwDIYyDwU1AqexBGxwDqQ0DF==.png)
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=954f10fb24d9f2d3201124e799ed8a53/74798601a18b87d6c9c48405410828381e30fd88.jpg?tbpicau=2026-01-05-05_aee342249c86f3c13deff15861c2da30)
+![](https://vip.123pan.cn/1853786149/ymjew503t0m000d7w32y30x6ddrgtu2kDIYyDwU1AqexBGxwDqQ0DF==.png)
 
 </details>
 
@@ -1338,20 +1500,19 @@ N卡和A卡
 
 包豪斯mini纯白
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=e56a78f3b4d3572c66e29cd4ba126352/4064a08b87d6277f71941d226e381f30e824fc88.jpg?tbpicau=2026-01-05-05_1c6c18c50b94eaf43dc00afe03e5026d)
+![](https://vip.123pan.cn/1853786149/ymjew503t0m000d7w32y3178y9rysjldDIYyDwU1AqexBGxwDqQ0DF==.png)\
 
 海景房MINI
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=9262e8f9112c11dfded1bf2b53266255/66ee86d6277f9e2ff7b332125930e924b999f388.jpg?tbpicau=2026-01-05-05_e8b11d01a1ca24da3067412a43100d1b)
+![](https://vip.123pan.cn/1853786149/yk6baz03t0m000d7w33gv3roz9tfcpyhDIYyDwU1AqexBGxwDqQ0DF==.png)
 
 先马颜之神MINI 全透测
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=03684d0657dfa9ecfd2e561f52d1f754/40b3267f9e2f0708d983051aaf24b899a801f288.jpg?tbpicau=2026-01-05-05_4d7b732480d79d82d46fba55129e9318)
+![](https://vip.123pan.cn/1853786149/yk6baz03t0m000d7w33gv3rq2wtfd0d9DIYyDwU1AqexBGxwDqQ0DF==.png)
 
 便携式小蜜蜂 个人办公或者玩游戏306012G左右显卡
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=a5970bf5efec8a13141a57e8c7029157/e01a9f2f07082838ed8bf30efe99a9014d08f188.jpg?tbpicau=2026-01-05-05_78eab08b39efee9d0a9cbaecb9a6d4a1)
-
+![](https://vip.123pan.cn/1853786149/yk6baz03t0m000d7w33gv3ruy5tfitufDIYyDwU1AqexBGxwDqQ0DF==.png)
 
 </details>
 
@@ -1797,22 +1958,109 @@ N卡和A卡
 <details>
   <summary>点击展开/折叠图片</summary>
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=0be5b68568dda3cc0be4b82831e83905/75749213b07eca8025eb16fdd72397dda04483a7.jpg?tbpicau=2026-01-05-05_0c4f23a0a78b3e07c95c1d8d96d48f76)
+| 配件   | 型号                   | 价格   | 保修 |
+|:-----|:---------------------|:-----| :--- |
+| CPU  | AMD 速龙 3000G 4核心/8线程 | 399  | 三年 |
+| 主板   | 微星 A520M-PRO         | 399  | 三年 |
+| 内存   | 金百达 银爵DDR4 3200 8G   | 299  | 三年 |
+| 显卡   | 核显不错 玩玩LOL           |      | |
+| 固态硬盘 | 金百达 KP230 256G M2    | 349  | 三年 |
+| 机械硬盘 | 选配                   |      | |
+| 散热器  | 七星自带散热器              | 0    | 一年 |
+| 电源   | 动力火车 300W            | 99   | 三年 |
+| 机箱   | 黑色商务小机箱              | 89   | 三月 |
+| 七星合计 | 系统WIN10 win11        | 1634 | |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=ed7c34f7e5cc7cd9fa2d34d109002104/5476b17eca8065384d048b09d1dda144ac3482a7.jpg?tbpicau=2026-01-05-05_41317363344fe32eb05ef7de23081a3c)
+| 配件     | 型号                     | 价格   | 保修 |
+| -------- | ------------------------ |------| ---- |
+| CPU      | Intel12代酷睿i3-12100    | 899  | 一年 |
+| 主板     | 精粤H610M-D4             | 319  | 三年 |
+| 内存     | 金百达黑 DDR4 3200 8G    | 249  | 三年 |
+| 显卡     | 核显                     |      |      |
+| 固态硬盘 | 金百达 KP230 256G M2     | 369  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚X400             | 79   | 一年 |
+| 电源     | 动力火车 300W            | 99   | 三年 |
+| 机箱     | 黑色商务小机箱           | 89   | 三月 |
+| 七星合计 | 办公系列WIN10 win11      | 2103 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=6c0eb9e63ad98d1076d40c39113eb807/771bcb8065380cd7d3f08df7e744ad34588281a7.jpg?tbpicau=2026-01-05-05_7997a04615a5584177067de323f9e842)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | Intel12代酷睿i3-12100F   | 499  | 三年 |
+| 主板     | 微星 H610M E D4          | 499  | 三年 |
+| 内存     | 金百达DDR4 3200 16G      | 549  | 三年 |
+| 显卡     | 盈通RX550 4G             | 499  | 三年 |
+| 固态硬盘 | 英睿达P3 500G M2         | 499  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星蓝鲸X400散热器       | 79   | 一年 |
+| 电源     | TT TR2 400W              | 199  | 三年 |
+| 机箱     | 航嘉S900黑色小机箱       | 129  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 2952 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=e01f66f3cb1001e94e3c1407880f7b06/0de564380cd79123d40ebb6eeb345982b3b780a7.jpg?tbpicau=2026-01-05-05_07119c749dae295a9f3a52256766ab8e)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 锐龙R5-5600G         | 949  | 一年 |
+| 主板     | 微星 B450M-PRO/A520M     | 439  | 三年 |
+| 内存     | 金百达银爵 3200 8G×2 D4  | 699  | 三年 |
+| 显卡     | 集显                     |      |      |
+| 固态硬盘 | 英睿达P3 500G M2         | 499  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚X400四热管       | 79   | 一年 |
+| 电源     | TT 400W                  | 199  | 三年 |
+| 机箱     | 绝尘侠黑色小机箱         | 99   | 三月 |
+| 七星合计 | 系统WIN10 win11          | 2963 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=380a973a47e9390156028d364bed54f9/a25d0dd7912397dde597b71e1f82b2b7d1a287a7.jpg?tbpicau=2026-01-05-05_a70ff0bb1b71590b8bf7edd6c17228ec)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | Intel12代酷睿i5-12400    | 1249 | 一年 |
+| 主板     | 微星 H610M E D4          | 499  | 三年 |
+| 内存     | 金百达 DDR4 3200 8G×2    | 599  | 三年 |
+| 显卡     | 核显不错 玩玩LOL         |      |      |
+| 固态硬盘 | 铠侠RC20 500G M2         | 499  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | Intel七星蓝鲸X400        | 79   | 一年 |
+| 电源     | TT 400W                  | 199  | 三年 |
+| 机箱     | 航嘉S900黑色             | 129  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 3253 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=c8c31bc37f01213fcf334ed464e636f8/cbb2902397dda144e8e743a8f4b7d0a20df486a7.jpg?tbpicau=2026-01-05-05_9704cc3752d74354023878eb655626fe)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | Intel 酷睿i3-12100F      | 499  | 三年 |
+| 主板     | 微星 H610M E D4          | 499  | 三年 |
+| 内存     | 金百达 DDR4 3200 16G     | 549  | 三年 |
+| 显卡     | 盈通 RX6500XT 4G         | 949  | 二年 |
+| 固态硬盘 | 铠侠RC20 500G M2         | 499  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 雅浚X400四热管           | 79   | 一年 |
+| 电源     | TT TR2 650W              | 259  | 三年 |
+| 机箱     | 航嘉S900黑               | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 3472 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=473a232b673fb80e0cd161df06d02ffb/564696dda144ad341f51a89d96a20cf430ad85a7.jpg?tbpicau=2026-01-05-05_fee271ab25951b5fc3b48988740bbf29)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | Intel 14代酷睿i5-14600K  | 1399 | 三年 |
+| 主板     | 微星 B760M-BOMBER WIFI D4| 699  | 三年 |
+| 内存     | 金百达 黑爵 DDR4 3200 16G| 549  | 三年 |
+| 显卡     | 集显（13400集显1600 不考虑） |      |      |
+| 固态硬盘 | 英睿达P3P 500 M2         | 499  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星蓝鲸X400四热管       | 79   | 一年 |
+| 电源     | 航嘉WD650W 炫金战神金牌  | 349  | 三年 |
+| 机箱     | 航嘉S900侧透黑           | 129  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 3703 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=7ed23b15fe0e7bec23da03e91f2fb9fa/50b8a044ad345982f564ca884af431adcaef84a7.jpg?tbpicau=2026-01-05-05_f78ffc768d26de737bca6197a2b4ce45)
-
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 12代酷睿 I5 12400F       | 799  | 三年 |
+| 主板     | 微星 H610M E D4          | 499  | 三年 |
+| 内存     | 金百达 DDR4 3200 16G     | 549  | 三年 |
+| 显卡     | 盈通 RX6500XT 4G         | 999  | 三年 |
+| 固态硬盘 | 英睿达P3 500G M2         | 499  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚X400             | 79   | 一年 |
+| 电源     | TT TR2 650W 牌           | 259  | 三年 |
+| 机箱     | 航嘉S900黑色             | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 3822 |      |
 
 </details>
 
@@ -1825,25 +2073,134 @@ N卡和A卡
 <details>
   <summary>点击展开/折叠图片</summary>
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=952710fb24d9f2d3201124e799ed8a53/74798601a18b87d6c9ac8405410828381e30fda0.jpg?tbpicau=2026-01-05-05_5939dd53c1a8960ad0bb94e1576b1ec5)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 锐龙R5 5600              | 749  | 三年 |
+| 主板     | 华硕B550M K D4           | 599  | 三年 |
+| 内存     | 金百达 银 DDR4 3200 16G  | 699  | 三年 |
+| 显卡     | 蓝宝石 RX7650GRE 8G白金  | 1849 | 三年 |
+| 固态硬盘 | 英睿达P3 500G M2         | 499  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚X400             | 79   | 一年 |
+| 电源     | 航嘉WD650W 金牌          | 349  | 三年 |
+| 机箱     | 航嘉S900侧透黑           | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 4962 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=e50278f3b4d3572c66e29cd4ba126352/4064a08b87d6277f71fc1d226e381f30e824fca0.jpg?tbpicau=2026-01-05-05_81ceea29a732af4e20e22083118d8bbe)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 12代酷睿 I5 12400F       | 799  | 三年 |
+| 主板     | 微星 H610M E D4          | 499  | 三年 |
+| 内存     | 金百达 DDR4 3200 16G     | 549  | 三年 |
+| 显卡     | 蓝宝石 RX7650GRE 8G 白金 | 1849 | 三年 |
+| 固态硬盘 | 西数SN5000/铠侠RC20 1T M2 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星蓝鲸X400四热管       | 79   | 一年 |
+| 电源     | 航嘉WD650W 金牌          | 349  | 三年 |
+| 机箱     | 航嘉S900黑               | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 5062 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=920ae8f9112c11dfded1bf2b53266255/66ee86d6277f9e2ff7db32125930e924b999f3a0.jpg?tbpicau=2026-01-05-05_f5b61f20f1713fe3dbbaacc620a99c5a)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 锐龙R5 5600              | 749  | 三年 |
+| 主板     | 华硕 B550M K D4          | 599  | 三年 |
+| 内存     | 金百达 DDR4 3200 16G     | 599  | 三年 |
+| 显卡     | 盈通RX9060XT 8G D6 大地之神 | 2099 | 二年 |
+| 固态硬盘 | 英睿达P3 500G M2         | 499  | 三年 |
+| 散热器   | 投普雷S4/乔思伯HP400     | 99   | 一年 |
+| 电源     | 航嘉WD650W 金牌          | 349  | 三年 |
+| 迷你机箱 | XGAMER-100白色手提便携小机箱 | 159 | 三月 |
+| 七星合计 | 便携小机箱               | 5152 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=03004d0657dfa9ecfd2e561f52d1f754/40b3267f9e2f0708d9eb051aaf24b899a801f2a0.jpg?tbpicau=2026-01-05-05_cfea0a73f17150cc9023fc5f2cba15f0)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 锐龙R5-5600          | 749  | 一年 |
+| 主板     | 华硕 B550M - K D4        | 599  | 三年 |
+| 内存     | 金百达 银爵 DDR4 3600 8G*2 | 699 | 三年 |
+| 显卡     | 盈通 RX9060XT 8G D6 大地 | 2099 | 三年 |
+| 固态硬盘 | 英睿达P3 500G Nvme M.2   | 499  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚X400 四热管      | 79   | 一年 |
+| 电源     | 航嘉WD650W 金牌          | 349  | 三年 |
+| 机箱     | 航嘉S900黑色             | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 5212 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=a5ff0bf5efec8a13141a57e8c7029157/e01a9f2f07082838ede3f30efe99a9014d08f1a0.jpg?tbpicau=2026-01-05-05_fd2f9263bff4ab039d27a27833fa3355)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | Intel 酷睿i5-12400F      | 799  | 三年 |
+| 主板     | 微星 H610M E D4          | 499  | 三年 |
+| 内存     | 金百达黑爵 DDR4 3200 16G | 549  | 三年 |
+| 显卡     | 七彩虹 RTX5060 8G 战斧   | 2499 | 三年 |
+| 固态硬盘 | 英睿达P3 500G M2         | 499  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星蓝鲸X400             | 79   | 一年 |
+| 电源     | 航嘉WD650 金牌           | 349  | 三年 |
+| 机箱     | 航嘉S900黑               | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 5412 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=e20cb3c6cc13632715edc23ba18ea056/594a060828381f301af7a2b3ef014c086f06f0a0.jpg?tbpicau=2026-01-05-05_8551be7f3033dae913284b0b42922fed)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 7代锐龙R5 7500F          | 849  | 一年 |
+| 主板     | 微星 B650M BMOBER WIFI D5 | 749 | 三年 |
+| 内存     | 金百达银爵 DDR5 6000 16G | 1099 | 三年 |
+| 显卡     | 蓝宝石 RX7650GRE 8G 极地 | 1849 | 二年 |
+| 固态硬盘 | 西数SN5000/英睿达P3 1T Nvme M.2 | 399 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚X600             | 99   | 一年 |
+| 电源     | 航嘉WD650W金牌           | 349  | 三年 |
+| 机箱     | 航嘉S900黑               | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 5532 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=5d3f9039252762d0803ea4b790ed0849/c06d29381f30e9244c4ab32b0a086e061c95f7a0.jpg?tbpicau=2026-01-05-05_de8a31408815171f7797b478aecfbfaf)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | Intel 酷睿i5-12400F      | 799  | 三年 |
+| 主板     | 微星 H610M S WIFI D4     | 559  | 三年 |
+| 内存     | 金百达DDR4 3200 16G      | 549  | 三年 |
+| 显卡     | 盈通萌宠RTX5060 8G ITX   | 2499 | 二年 |
+| 固态硬盘 | 英睿达P3 500G Nvme M.2   | 499  | 三年 |
+| 显卡转接盒 | 显卡转接盒               | 100  |      |
+| 散热器   | 搜睿雷 SP-ITX47          | 99   | 一年 |
+| 电源     | 小蜜蜂 400W              | 199  | 三年 |
+| 迷你机箱 | 小蜜蜂长26CM宽24CM方便行李箱携带 | 299 | 三月 |
+| 七星合计 | 迷你小钢炮               | 5602 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=7fc0790d24d0f703e6b295d438fb5148/ef5d1e30e924b8995cd2562228061d950b7bf6a0.jpg?tbpicau=2026-01-05-05_2db1a137f049187066a19ea4d51c6d32)
+| 配件     | 型号                     | 价格 | 保修     |
+| -------- | ------------------------ | ---- | -------- |
+| CPU      | Intel 酷睿i5-12600KF     | 999  | 一年     |
+| 主板     | 微星B760M - A WIFI D4    | 899  | 三年     |
+| 内存     | 金百达 DDR4 3200 16G     | 549  | 三年     |
+| 显卡     | 蓝宝石RX7650GRE 8G 极地 白 | 1849 | 三年     |
+| 固态硬盘 | 西数SN5000/英睿达P3 1T Nvme M.2 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |          |
+| 散热器   | 七星雅浚X600 RGB 白      | 99   | 一年     |
+| 电源     | 航嘉WD650W 金牌白色      | 349  | 三年     |
+| 机箱     | 小海景房MINI 白色海景房  | 139  | 三月     |
+| 七星合计 | 系统WIN10 win11          | 5682 | 白色套   |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=95f478fab103918fd7d13dc2613c264b/d855e824b899a901badb742c5b950a7b0308f5a0.jpg?tbpicau=2026-01-05-05_28a4fafe56193e416df38349c21fd061)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 7代锐龙R5 7500F          | 849  | 三年 |
+| 主板     | 微星 B650M B D5          | 599  | 三年 |
+| 内存     | 金百达银爵 DDR5 6000 16G国产 | 1099 | 三年 |
+| 显卡     | 七彩虹RTX5050 8G D7 战斧 | 1999 |      |
+| 固态硬盘 | 西数SN5000/英睿达 1T M2  | 799  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚X600             | 99   | 一年 |
+| 电源     | 航嘉WD650W 炫金战神金牌  | 349  | 三年 |
+| 机箱     | 航嘉海景房黑色           | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 5932 |      |
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=9503ed29d78fa0ec7fc764051696594a/2e41b999a9014c0899d507bf4c7b02087af4f4a0.jpg?tbpicau=2026-01-05-05_6d7f7ec903199e2e956e5350a81e6c75)
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 5600                 | 749  | 三年 |
+| 主板     | 华硕B550M K D4           | 599  | 三年 |
+| 内存     | 金百达DDR4 3200 16G      | 599  | 三年 |
+| 显卡     | 盈通萌宠RTX5060 8G ITX   | 2499 | 二年 |
+| 固态硬盘 | 西数SN5000 1T Nvme M.2   | 799  | 三年 |
+| 显卡PCI 转接线 | 显卡PCI 转接线       | 100  |      |
+| 散热器   | 搜睿雷 SP-ITX47          | 99   | 一年 |
+| 电源     | 小蜜蜂 400W              | 199  | 三年 |
+| 迷你机箱 | 小蜜蜂长26CM宽24CM方便行李箱携带 | 299 | 三月 |
+| 七星合计 | 迷你小钢炮               | 5942 |      |
 
 </details>
 
@@ -1853,4 +2210,317 @@ N卡和A卡
 
 游戏LOL黑神话悟空 吃鸡永劫 的6000+----7000以内左右主机白色海景房主机机箱
 
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=8544ec29358da9774e2f86238050f872/3c88aa64034f78f038e2b5e93f310a55b2191ca0.jpg?tbpicau=2026-01-05-05_d1dd986e99f6ba0abbdc9e5a0e0351c7)
+<details>
+  <summary>点击展开/折叠</summary>
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 锐龙R5-9600X 6/12线程 | 1249 | 三年 |
+| 主板     | 微星 B650M B D5          | 599  | 三年 |
+| 内存     | 金百达银爵 6400 16Gd5    | 1099 | 三年 |
+| 显卡     | 蓝宝石 RX7650GRE 8G 极地 | 1849 | 二年 |
+| 固态硬盘 | 西数SN5000/英睿达P3P 1T M2 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民PA120风冷        | 179  | 一年 |
+| 电源     | 航嘉WD650W 金牌          | 349  | 三年 |
+| 机箱     | 航嘉S900黑               | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 6322 |      |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 7代锐龙R5-7500F 6/12线程 | 849  | 一年 |
+| 主板     | 微星 B650M B D5          | 599  | 三年 |
+| 内存     | 金百达银爵 6400 16G D5 国产 | 1099 | 三年 |
+| 显卡     | 七彩虹RTX5060 8G 战斧    | 2499 | 三年 |
+| 固态硬盘 | 西数SN5000/英睿达P3 1T M2 | 799 | 五年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚GX600            | 129  | 一年 |
+| 电源     | 航嘉WD650W 金牌          | 349  | 三年 |
+| 机箱     | 航嘉S900黑色             | 129  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 6452 |      |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 12代酷睿 I5 12600KF      | 999  | 一年 |
+| 主板     | 微星 B760M - A WiFi D4支持RGB | 899 | 三年 |
+| 内存     | 金百达黑爵 3200 16G D4    | 549  | 三年 |
+| 显卡     | 盈通 RX 9060XT 16G D6 游戏高手 | 2999 | 三年 |
+| 固态硬盘 | 西数SN5000/英睿达P3P 1T M2 | 399 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚GX600            | 129  | 一年 |
+| 电源     | 航嘉WD650W 金牌          | 349  | 三年 |
+| 机箱     | 琉璃黑色                 | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 6462 |      |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | Intel 酷睿i5-12400F      | 599  | 一年 |
+| 主板     | 微星 H610M E D4          | 499  | 三年 |
+| 内存     | 金百达 DDR4 3200 16G     | 549  | 三年 |
+| 显卡     | 七彩虹战斧RTX5060TI 16G  | 3499 | 二年 |
+| 固态硬盘 | 西数SN5000/英睿达P3 1T M2 4.0 | 799 | 三年 |
+| 散热器   | 搜普雷S4/乔思伯HP400     | 99   | 一年 |
+| 电源     | 航嘉WD650 金牌           | 349  | 三年 |
+| 迷你机箱 | XGAMER-100白色手提便携小机箱 | 159 | 三月 |
+| 七星合计 | 便携小机箱               | 6552 |      |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 酷睿I5 14600KF           | 1299 | 一年 |
+| 主板     | 华硕 Z790 - P WIFI D5 白马甲 | 1599 | 三年 |
+| 内存     | 金百达刃 DDR5 6400 16G白灯条 | 1299 | 三年 |
+| 显卡     | 配机显卡                 |      |      |
+| 固态硬盘 | 三星990PRO 1TB Nvme M.2  | 849  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星瓦尔基里360 水冷白色  | 399  | 三年 |
+| 电源     | 振华金蝶LEADEX1000W 全模组白色 | 999 | 三年 |
+| 机箱     | 航嘉S980海景房白色 侧透  | 299  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 6743 | 全白 |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 锐龙R5-9600X 6/12线程 | 1249 | 一年 |
+| 主板     | 微星 B850M GAMING PULSWIFI D5 | 1099 | 三年 |
+| 内存     | 金百达银爵D5 6400 16G*2  | 899  | 三年 |
+| 显卡     | 蓝宝石RX9060XT 8G 游戏高手 | 2149 | 二年 |
+| 固态硬盘 | 西数SN5000/英睿达P3P 1T Nvme M.2 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民PA120风冷        | 179  | 一年 |
+| 电源     | TT GE850W 金牌/航嘉WD650W 金牌 | 349 | 三年 |
+| 机箱     | 航嘉S900黑色             | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 6862 |      |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 锐龙R5-7500F         | 849  | 三年 |
+| 主板     | 微星 B650M - B           | 599  | 三年 |
+| 内存     | 金百达银爵D5 6400 16G    | 1099 | 三年 |
+| 显卡     | 盈通 RX 9060XT 16G D6 游戏高手 | 2999 | 二年 |
+| 固态硬盘 | 西数 SN5000 1T Nvme M.2  | 799  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚X600风冷         | 99   | 一年 |
+| 电源     | 航嘉WD650W 金牌          | 349  | 三年 |
+| 机箱     | 航嘉750A黑色             | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 6992 |      |
+
+</details>
+
+### 英特尔 12代 -14代酷睿 AMD 7 -9代锐龙5060TI 5070 9070XT 显卡
+
+12700KF/14600KF+ 5060TI 16G 建模渲染 CUAD办公
+
+9700X+ 7800xt /5070配置游戏主机
+
+游戏黑神话悟空永劫 吃鸡7000+-10000左右海景房主机
+
+<details>
+  <summary>点击展开/折叠</summary>
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 7代锐龙R5 7500F          | 849  | 一年 |
+| 主板     | 微星 B650M B D5          | 599  | 三年 |
+| 内存     | 金百达银爵 DDR5 6000 16G | 1099 | 三年 |
+| 显卡     | 盈通 RX 9070GRE 12G D6大地 | 3499 | 三年 |
+| 固态硬盘 | 西数SN5000/英睿达P3P 1T M2 | 399 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚X400四热管       | 79   | 一年 |
+| 电源     | 航嘉GX750W金牌模组       | 459  | 三年 |
+| 机箱     | 航嘉750A黑色             | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 7182 |      |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 酷睿I5 14600KF           | 1299 | 一年 |
+| 主板     | 微星 B760M - A WIFI D4白马甲 | 899 | 三年 |
+| 内存     | 金百达 DDR4 3200 16G     | 549  | 三年 |
+| 显卡     | 七彩虹RTX5060TI Utar 8G 白 | 3199 | 三年 |
+| 固态硬盘 | 西数SN5000/英睿达P3P 1T Nvme M.2 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民AE240 水冷白     | 249  | 一年 |
+| 电源     | 航嘉WD650W 金牌白色      | 349  | 三年 |
+| 机箱     | 航嘉白色海景房           | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 7482 | 白色套 |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 锐龙R5-9600X 6/12线程 | 1249 | 一年 |
+| 主板     | 微星 B850M GAMING PLUS WIFI D5 | 1099 | 三年 |
+| 内存     | 金百达银爵 6400 16G      | 1099 | 三年 |
+| 显卡     | 七彩虹 RTX5060 8G UtarDOU 白色 | 2599 | 三年 |
+| 固态硬盘 | 西数SN5000 1T M2         | 799  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民PA120 白色       | 179  | 一年 |
+| 电源     | 航嘉WD650W 金牌白色      | 349  | 三年 |
+| 机箱     | 航嘉S900白色海景房       | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 7512 | 白色套 |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 酷睿I5 14600KF           | 1299 | 一年 |
+| 主板     | 微星 B760M - A WIFI D4   | 899  | 三年 |
+| 内存     | 金百达 DDR4 3600 16G     | 499  | 三年 |
+| 显卡     | 七彩虹战斧RTX5060TI 16G  | 3499 | 三年 |
+| 固态硬盘 | 西数SN5000/英睿达P3 1T Nvme M.2 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民A240水冷         | 249  | 一年 |
+| 电源     | 航嘉WD650W 金牌          | 349  | 三年 |
+| 机箱     | 航嘉黑色海景房/琉璃      | 139  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 7732 |      |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 7代锐龙R5-7500F 6/12线程 | 849  | 一年 |
+| 主板     | 微星 B650M BOMBER WIFI D5 | 749 | 三年 |
+| 内存     | 金百达银爵 6400 16Gd5    | 1099 | 三年 |
+| 显卡     | 七彩虹 RTX5070 12G 战斧  | 4599 | 二年 |
+| 固态硬盘 | 西数SN5000/英睿达P3 1T Nvme M.2 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星雅浚GX600            | 129  | 一年 |
+| 电源     | 航嘉GX750W 金牌全模组    | 449  | 三年 |
+| 机箱     | 航嘉750A海景房黑色       | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 8872 |      |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 酷睿I5 14600KF           | 1299 | 三年 |
+| 主板     | 微星 B760M - A WIFI D4白马甲 | 899 | 三年 |
+| 内存     | 金百达 DDR4 3200 16G     | 499  | 三年 |
+| 显卡     | 七彩虹RTX5070 12G Utar 白 | 4899 | 三年 |
+| 固态硬盘 | 西数SN5000/英睿达P3 1T Nvme M.2 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民A240水冷 白色    | 249  | 一年 |
+| 电源     | 航嘉MVP750W 金牌模组白色 | 599  | 三年 |
+| 机箱     | 航嘉S960海景房白色       | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 9442 |      |
+
+</details>
+
+### 英特尔 12代 -14代酷睿
+
+AMD7代7800X3D 9代锐龙显卡5070 9070XT 5070TI显卡 建模渲染 大型游戏游戏
+
+黑神话悟空永劫 吃鸡 大型游戏的1000+-12000左右主机
+
+<details>
+  <summary>点击展开/折叠</summary>
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 酷睿I5 14600KF           | 1299 | 一年 |
+| 主板     | 微星 B760M GAMINGPULS WIFI D5 | 999 | 三年 |
+| 内存     | 金百达 DDR5 6400 16G     | 1099 | 三年 |
+| 显卡     | 蓝宝石RX9070XT 16G 合金脉动 | 4899 | 三年 |
+| 固态硬盘 | 西数SN5000 1T Nvme M.2  | 799  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民AE240 水冷       | 249  | 三年 |
+| 电源     | 航嘉MVP750W 金牌模组     | 599  | 三年 |
+| 机箱     | 航嘉750A黑色             | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 10142 |     |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 9代锐龙 R7 9700X     | 1699 | 三年 |
+| 主板     | 微星 B850MGAMINGPULS WIFID5白 | 1099 | 三年 |
+| 内存     | 金百达 6400 16G D5*2 刃灯条白 | 2599 | 三年 |
+| 显卡     | 盈通RX9070GRE 12G 大地   | 3499 | 二年 |
+| 固态硬盘 | 西数SN5000 1T Nvme M.2 4.0 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民A240水冷白色     | 249  | 一年 |
+| 电源     | 航嘉MVP750W 金牌全模组 白色 | 599 | 五年 |
+| 机箱     | 孤勇者白色海景房/航嘉750A | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 10742 |     |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 7代锐龙R7 7800X3D        | 1999 | 三年 |
+| 主板     | 微星B850MGAMINGPLUS WIFID5 | 1099 | 三年 |
+| 内存     | 金百达银爵 6400 16G D5   | 1099 | 三年 |
+| 显卡     | 七彩虹 RTX5070 12G 战斧  | 4599 | 三年 |
+| 固态硬盘 | 西数SN5000 1T Nvme M.2 4.0 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星瓦尔基里360水冷      | 399  | 一年 |
+| 电源     | 航嘉MVP750W金牌全模组    | 599  | 三年 |
+| 机箱     | 航嘉750A黑色             | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 10792 |     |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 酷睿I5 12600KF           | 999  | 三年 |
+| 主板     | 微星 B760M A WIFI D4     | 899  | 三年 |
+| 内存     | 金百达银爵 DDR4 3600 16G | 549  | 三年 |
+| 显卡     | 七彩虹 RTX5070TI 16G Utar白 | 7099 | 二年 |
+| 固态硬盘 | 西数SN5000 1T Nvme M.2 4.0 | 459 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民AE240 水冷白     | 249  | 一年 |
+| 电源     | 航嘉MVP750W 金牌模组 白色 | 599 | 三年 |
+| 机箱     | 航嘉960S白色追梦海景房   | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 11052 |     |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 7代锐龙R7-7800X 3D   | 2049 | 三年 |
+| 主板     | 微星 B850M GAMING PLUS D5白色 | 1199 | 三年 |
+| 内存     | 金百达 6400 16G×2双通道 D5 | 899 | 三年 |
+| 显卡     | 蓝宝石RX9070 16G 合金脉动 | 5199 | 三年 |
+| 固态硬盘 | 西数SN5000 1TB Nvme M.2  | 799  | 五年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星瓦尔基里360 水冷白色  | 399  | 三年 |
+| 电源     | 航嘉MVP750 金牌全模组白色 | 599  | 五年 |
+| 机箱     | 航嘉750A白色海景房       | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 11342 |     |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 酷睿I5 14600KF           | 1299 | 三年 |
+| 主板     | 微星 B760M - A WIFI D4支持RGB | 899 | 三年 |
+| 内存     | 金百达 DDR4 3200 16G     | 549  | 三年 |
+| 显卡     | 七彩虹 RTX5070TI 16G Utar白 | 7099 | 三年 |
+| 固态硬盘 | 西数SN5000 1T Nvme M.2  | 799  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星瓦尔基里360水冷 RGB 白 | 399 | 一年 |
+| 电源     | 航嘉MVP750W 金牌全模组白 | 599  | 三年 |
+| 机箱     | 航嘉960S白色海景房       | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 11842 | 白色套 |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | AMD 锐龙R7-9800X3D       | 2999 | 三年 |
+| 主板     | 微星 B850M GAMINGPULS WIFID5 | 1099 | 三年 |
+| 内存     | 金百达刃 6400 16G D5白灯条 | 1299 | 三年 |
+| 显卡     | 七彩虹RTX5070 12G 战斧  | 4599 | 三年 |
+| 固态硬盘 | 西数SN5000 1TB PCIE4.0 M.2 | 799 | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星瓦尔基里360 水冷     | 599  | 三年 |
+| 电源     | 航嘉MVP750W 金牌模组     | 599  | 五年 |
+| 机箱     | 航嘉750A黑色海景房       | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 12192 |     |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 9代锐龙R5 9600X          | 1249 | 一年 |
+| 主板     | 微星 B850MGAMINGPLUS WIFID5 | 1099 | 三年 |
+| 内存     | 金百达银爵 6400 16G×2 D5 | 899  | 三年 |
+| 显卡     | 七彩虹RTX5070TI 16G Utar白 | 7099 | 三年 |
+| 固态硬盘 | 西数SN5000 1T Nvme M.2  | 799  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民A240水冷 白色    | 249  | 三年 |
+| 电源     | 航嘉MVP750W 金牌全模组白色 | 599 | 十年 |
+| 机箱     | 航嘉750A海景房白色       | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 12192 |     |
+
+| 配件     | 型号                     | 价格 | 保修 |
+| -------- | ------------------------ | ---- | ---- |
+| CPU      | 9代锐龙R5 9600X          | 1249 | 一年 |
+| 主板     | 微星 B850MGAMINGPLUS WIFID5 | 1099 | 三年 |
+| 内存     | 金百达银爵 6400 16G×2 D5 | 899  | 三年 |
+| 显卡     | 七彩虹RTX5070TI 16G Utar白 | 7099 | 三年 |
+| 固态硬盘 | 西数SN5000 1T Nvme M.2  | 799  | 三年 |
+| 机械硬盘 | 选配                     |      |      |
+| 散热器   | 七星利民A240水冷 白色    | 249  | 三年 |
+| 电源     | 航嘉MVP750W 金牌全模组白色 | 599 | 十年 |
+| 机箱     | 航嘉750A海景房白色       | 199  | 三月 |
+| 七星合计 | 系统WIN10 win11          | 12192 |     |
+
+</details>
+
